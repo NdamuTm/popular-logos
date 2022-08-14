@@ -1,0 +1,7 @@
+background color
+
+dark
+#0165E1
+
+light
+#17A9FD
